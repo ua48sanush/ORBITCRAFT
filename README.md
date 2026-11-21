@@ -1,2 +1,2 @@
 # ORBITCRAFT
-ORBITCRAFT – An Interactive Space Mission Design Simulator For Everyone...
+ORBITCRAFT – An integrated educational space systems engineering environment where individuals and teams of up to four design spacecraft, configure scientific payloads, plan orbits and launches, manage interconnected resources, simulate missions, and evaluate mission outcomes.
